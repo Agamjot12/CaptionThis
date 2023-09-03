@@ -1,4 +1,4 @@
-# Image Captioning Model
+# CaptionThis
 
 This project implements an image captioning model using a CNN-RNN architecture with attention. The model is trained to automatically generate captions for images.
 
